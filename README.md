@@ -66,8 +66,8 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Data
 
-For more type of data, you can find it at [University of Toronto Libraries](https://mdl.library.utoronto.ca/covid-19/data).
+For more type of data, you can find it at [quandl](https://www.quandl.com/data/BCHAIN-Blockchain).
 
 ### Document
 
-For more information related to this project. You may found at this [document](https://docs.google.com/document/d/11WB6BY0G19YKHv7wFfgzVgMeFPyhoawcrPpXn2iMfWw/edit?usp=sharing).
+For more information related to this project. You may found at this [document](https://drive.google.com/file/d/1aDE3TV34l9V68ZczVi0DKV1g6FI6r4ff/view?usp=sharing).
