@@ -1,8 +1,0 @@
-1. delete node module
-2. 进server 和client 输入yarn 来下载预设包
-3. yarn start on server if tcs fail then ==> npm install -g typescript
-http://localhost:4000/api/hash-rates
-http://localhost:4000/api/usd
-4. yart start on client
-https://samwize.com/2014/03/07/what-mongoose-never-explain-to-you-on-case-sentivity/
-Database 必须小写， table必须加s

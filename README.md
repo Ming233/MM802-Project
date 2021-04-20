@@ -49,11 +49,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Data
 
-The [Covid case count data](https://ourworldindata.org/coronavirus-source-data) relies on data from Johns Hopkins University
-
-The [vaccines data](https://covid-19tracker.milkeninstitute.org/#vaccines_intro) from Milken Institute and update by ourself.
-
-The [vaccines coverage Data Source](https://health-infobase.canada.ca/covid-19/vaccination-coverage/) from Canada Government.
+The [Hashrate and historical price data](https://www.quandl.com/data/BCHAIN-Blockchain) relies on data from quandl website
 
 ## Files
 
