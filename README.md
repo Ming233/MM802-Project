@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Before you run this code you need install all requirement package first:
 
-All required packaged are embeded into the Package.Json.
+All required packages are embeded into the Package.Json.
 
 ### `npm install/yarn`
 
@@ -24,13 +24,21 @@ Open [http://localhost:3000](http://localhost:3000) and [http://localhost:4000](
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### Web Demo
+### 'Web Demo pages'
+
+Once the web is successfully hosted, you should be able to navigate and see the following pages.
 
 <a target="_blank" href=""><img width="600" src="https://github.com/Ming233/MM802-Project/blob/master/imgs/Recharts.png?raw=true"></a><br>
 
 <a target="_blank" href=""><img width="600" src="https://github.com/Ming233/MM802-Project/blob/master/imgs/WorldCloud.png?raw=true"></a><br>
 
 <a target="_blank" href=""><img width="600" src="https://github.com/Ming233/MM802-Project/blob/master/imgs/React_Diagram.png?raw=true"></a><br>
+
+### 'workflow Diagram'
+
+Here is our workflow diagrams:
+<a target="_blank" href=""><img width="600" src="https://github.com/Ming233/MM802-Project/blob/master/imgs/React_Diagram.png?raw=true"></a><br>
+<a target="_blank" href=""><img width="600" src="https://github.com/Ming233/MM802-Project/blob/master/imgs/Recharts.png?raw=true"></a><br>
 
 ### `yarn test`
 
