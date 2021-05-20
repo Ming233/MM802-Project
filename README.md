@@ -26,11 +26,11 @@ You will also see any lint errors in the console.
 
 ### Web Demo
 
-<a target="_blank" href=""><img width="200" src="https://github.com/Ming233/MM802-Project/blob/master/imgs/Recharts.png?raw=true"></a><br>
+<a target="_blank" href=""><img width="600" src="https://github.com/Ming233/MM802-Project/blob/master/imgs/Recharts.png?raw=true"></a><br>
 
-<a target="_blank" href=""><img width="200" src="https://github.com/Ming233/MM802-Project/blob/master/imgs/WorldCloud.png?raw=true"></a><br>
+<a target="_blank" href=""><img width="600" src="https://github.com/Ming233/MM802-Project/blob/master/imgs/WorldCloud.png?raw=true"></a><br>
 
-<a target="_blank" href=""><img width="200" src="https://github.com/Ming233/MM802-Project/blob/master/imgs/React_Diagram.png?raw=true"></a><br>
+<a target="_blank" href=""><img width="600" src="https://github.com/Ming233/MM802-Project/blob/master/imgs/React_Diagram.png?raw=true"></a><br>
 
 ### `yarn test`
 
