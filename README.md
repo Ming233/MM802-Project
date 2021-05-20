@@ -24,7 +24,7 @@ Open [http://localhost:3000](http://localhost:3000) and [http://localhost:4000](
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### 'Web Demo pages'
+### `Web Demo pages`
 
 Once the web is successfully hosted, you should be able to navigate and see the following pages.
 
@@ -34,12 +34,12 @@ Once the web is successfully hosted, you should be able to navigate and see the 
 
 <a target="_blank" href=""><img width="600" src="https://github.com/Ming233/MM802-Project/blob/master/imgs/React_Diagram.png?raw=true"></a><br>
 
-### 'workflow Diagram'
+### `workflow Diagram`
 
 Here is our workflow diagrams:<br>
 <a target="_blank" href=""><img width="600" src="https://github.com/Ming233/MM802-Project/blob/master/imgs/Workflow.jpg?raw=true"></a><br>
 
-### 'About this web app'
+### `About this web app`
 
 This React website visualize predicted Bitcoin price into a graphical, user-friendly charts to the user. In this way, potential investor can make up their decision by checking different models' price trend.
 
