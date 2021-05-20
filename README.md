@@ -36,7 +36,7 @@ Once the web is successfully hosted, you should be able to navigate and see the 
 
 ### 'workflow Diagram'
 
-Here is our workflow diagrams:
+Here is our workflow diagrams:<br>
 <a target="_blank" href=""><img width="600" src="https://github.com/Ming233/MM802-Project/blob/master/imgs/React_Diagram.png?raw=true"></a><br>
 <a target="_blank" href=""><img width="600" src="https://github.com/Ming233/MM802-Project/blob/master/imgs/Workflow.jpg?raw=true"></a><br>
 
