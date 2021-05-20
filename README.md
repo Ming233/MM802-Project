@@ -38,7 +38,11 @@ Once the web is successfully hosted, you should be able to navigate and see the 
 
 Here is our workflow diagrams:
 <a target="_blank" href=""><img width="600" src="https://github.com/Ming233/MM802-Project/blob/master/imgs/React_Diagram.png?raw=true"></a><br>
-<a target="_blank" href=""><img width="600" src="https://github.com/Ming233/MM802-Project/blob/master/imgs/Recharts.png?raw=true"></a><br>
+<a target="_blank" href=""><img width="600" src="https://github.com/Ming233/MM802-Project/blob/master/imgs/Workflow.jpg?raw=true"></a><br>
+
+### 'About this web app'
+
+This React website visualize predicted Bitcoin price into a graphical, user-friendly charts to the user. In this way, potential investor can make up their decision by checking different models' price trend.
 
 ### `yarn test`
 
@@ -89,5 +93,3 @@ For more type of data, you can find it at [quandl](https://www.quandl.com/data/B
 ### Document
 
 For more information related to this project. You may found at this [document](https://drive.google.com/file/d/1aDE3TV34l9V68ZczVi0DKV1g6FI6r4ff/view?usp=sharing).
-
-### About this website
