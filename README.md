@@ -6,21 +6,31 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Before you run this code you need install all requirement package first:
 
-### `npm install`
+All required packaged are embeded into the Package.Json.
 
-In the project directory, you can run:
+### `npm install/yarn`
+
+In the project directory, you can run: npm install or yarn to install all required pageckages
 
 ### `yarn start`
 
-User must navigate to the server folder to run yarn start to start the NodeJS.
+User must navigate to the server folder to run yarn start to start the NodeJS server.
 
-The next navigate to the client folder to run yarn start to start the React.
+The next step is to navigate to the client folder to run yarn start to start the React.
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) and [http://localhost:4000](http://localhost:4000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+### Web Demo
+
+<a target="_blank" href=""><img width="200" src="https://github.com/Ming233/MM802-Project/blob/master/imgs/Recharts.png?raw=true"></a><br>
+
+<a target="_blank" href=""><img width="200" src="https://github.com/Ming233/MM802-Project/blob/master/imgs/WorldCloud.png?raw=true"></a><br>
+
+<a target="_blank" href=""><img width="200" src="https://github.com/Ming233/MM802-Project/blob/master/imgs/React_Diagram.png?raw=true"></a><br>
 
 ### `yarn test`
 
@@ -71,3 +81,5 @@ For more type of data, you can find it at [quandl](https://www.quandl.com/data/B
 ### Document
 
 For more information related to this project. You may found at this [document](https://drive.google.com/file/d/1aDE3TV34l9V68ZczVi0DKV1g6FI6r4ff/view?usp=sharing).
+
+### About this website
